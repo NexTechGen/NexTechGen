@@ -49,7 +49,7 @@ A Flask + MongoDB-based system for managing university student details, login ac
 ---
 
 ### 🧰 Tools & Platforms  
-<img height="40" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code" /><img height="40" src="https://img.icons8.com/color/48/pycharm.png" alt="PyCharm" /><img height="40" src="https://img.icons8.com/color/48/git.png" alt="Git" /><img height="40" src="https://img.icons8.com/dusk/64/anaconda.png" alt="Anaconda" /><img height="40" src="https://img.icons8.com/color/48/figma--v1.png" alt="Figma" /><img height="40" src="https://img.icons8.com/color/48/netlify.png" alt="Netlify" />
+<img height="40" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code" /> <img height="40" src="https://img.icons8.com/color/48/pycharm.png" alt="PyCharm" /> <img height="40" src="https://img.icons8.com/color/48/git.png" alt="Git" /><img height="40" src="https://img.icons8.com/dusk/64/anaconda.png" alt="Anaconda" /> <img height="40" src="https://img.icons8.com/color/48/figma--v1.png" alt="Figma" /><img height="40" src="https://img.icons8.com/color/48/netlify.png" alt="Netlify" />
 
 ---
 
