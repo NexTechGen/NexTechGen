@@ -43,7 +43,8 @@ A Flask + MongoDB-based system for managing university student details, login ac
 <img height="40" src="https://img.icons8.com/color/48/flask.png" alt="Flask" /><img height="40" src="https://img.icons8.com/color/48/react-native.png" alt="React" /><img height="40" src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js" /><img height="40" src="https://img.icons8.com/color/48/google-firebase-console.png" alt="Firebase" /><img height="40" src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB" />
 
 #### **Learning & Experimenting With**
-<img height="40" src="https://img.icons8.com/color/48/machine-learning.png" alt="Machine Learning" /><img height="40" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java" /><img height="40" src="https://img.icons8.com/color/48/c-programming.png" alt="C" /><img height="40" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="C++" />
+<img height="40" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-artificial-intelligence-robotics-flaticons-lineal-color-flat-icons.png" alt="Machine Learning" />
+<img height="40" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java" /><img height="40" src="https://img.icons8.com/color/48/c-programming.png" alt="C" /><img height="40" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="C++" />
 
 ---
 
