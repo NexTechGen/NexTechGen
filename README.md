@@ -6,7 +6,7 @@
 
 ### 👨‍💻 Founder
 **Rusaid Ahamed**  
-🎓 Bachelor of Technology (Honours) – 2nd Year  
+🎓 Bachelor of Technology (Honours)(R) – 2nd Year  
 🏛️ Faculty of Technology, University of Jaffna  
 💡 Freelancer | Developer | Tech Enthusiast  
 
